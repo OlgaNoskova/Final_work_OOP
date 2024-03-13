@@ -1,4 +1,4 @@
-# ![ico.png](img/ico.png)![ico.png](img/ico.png)![ico.png](img/ico.png) Курсовая работа "Резервное копирование"![ico.png](img/ico.png)![ico.png](img/ico.png)![ico.png](img/ico.png)
+# ![ico.png](img/ico.png)![ico.png](img/ico.png) Курсовая работа "Резервное копирование"![ico.png](img/ico.png)![ico.png](img/ico.png)
 
 Данная программа позволяет осуществить копирование фотографий с профиля (аватарок) пользователя vk в облачное хранилище Яндекс.Диск.
 
